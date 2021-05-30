@@ -19,6 +19,4 @@ Implementação em java da Máquina de Mealy
 Java 13
 * Compila no Java 8.
 
-## Diagrama do Transdutor
-
 
